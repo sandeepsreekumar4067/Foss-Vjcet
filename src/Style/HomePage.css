@@ -37,7 +37,31 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: start;
+    box-sizing: border-box;
+    font-size: 2rem;
+    padding: 0.5rem;
+    gap: 2rem;
     font: 2rem;
+}
+.dept-tiles{
+    box-sizing: border-box;
+    padding: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dept-tile{
+    flex: 1 1 calc(33%);
+    height: 5.5rem;
+    font-size: 1.5rem;
+    color: var(--white);
+    border-radius: 20px;
     background-color: var(--red);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
