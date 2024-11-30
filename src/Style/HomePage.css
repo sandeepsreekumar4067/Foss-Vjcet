@@ -1,0 +1,33 @@
+.home-page{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--white);
+}
+.header-container{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slogan{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.front-image{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.front-image img{
+    height: 160%;
+    width: 160%;
+    object-fit: contain;
+}

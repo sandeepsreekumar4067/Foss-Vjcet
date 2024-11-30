@@ -2,3 +2,7 @@
     --red:#F70057;
     --white:#FFFFFF;
 }
+html,body{
+    padding: 0;
+    margin: 0;
+}
