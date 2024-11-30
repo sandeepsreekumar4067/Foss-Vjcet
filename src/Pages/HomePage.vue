@@ -43,6 +43,11 @@ export default {
       ],
     };
   },
+  methods:{
+    goToDepartment(id){
+      console.log(id);
+    }
+  }
 };
 </script>
 
