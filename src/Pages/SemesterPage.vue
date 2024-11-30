@@ -1,5 +1,7 @@
 <template>
-  Hello World
+  <div class="semester-page">
+    
+  </div>
 </template>
 
 <script>
