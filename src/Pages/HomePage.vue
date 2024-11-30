@@ -2,7 +2,7 @@
   <div class="home-page">
     <div class="header-container">
       <div class="slogan">
-        New Way To Learn Online
+        New Way To <br> Learn Online
       </div>
       <div class="front-image">
         <img :src="frontImage" alt="">
