@@ -45,6 +45,11 @@ export default {
                 }
             ]
         }
+    },
+    methods:{
+        goToMaterial(name){
+            this.$router.push(name)
+        }
     }
 }
 </script>

@@ -37,6 +37,7 @@
 .material-tile{
     width: 50%;
     height: 5.8rem;
+    cursor: pointer;
     background-color: var(--red);
     display: flex;
     align-items: center;

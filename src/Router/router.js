@@ -1,5 +1,6 @@
 import HomePage from '@/Pages/HomePage.vue'
 import DepartmentPage from '@/Pages/DepartmentPage.vue'
+import MaterialPage from '@/Pages/MaterialPage.vue'
 import {
     createRouter,
     createWebHistory
@@ -22,6 +23,12 @@ const routes = [
         path:'/semester/:id',
         component:SemesterPage,
         props:true
+    },
+    {
+        name:'Material',
+        path:'/material/:name',
+        component:MaterialPage,
+        props:true,
     }
 ]
 const router = createRouter({
