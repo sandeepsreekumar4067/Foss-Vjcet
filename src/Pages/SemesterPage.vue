@@ -5,7 +5,7 @@
         </div>
         <div class="sem-notes">
             <span>Select the Study material you want</span>
-            <div v-for="note in materials" :key="note.name" class="material-tile">
+            <div @click="()=>{goToMaterial(note.name)}" v-for="note in materials" :key="note.name" class="material-tile">
                 {{ note.name }}
             </div>
         </div>
@@ -48,7 +48,12 @@ export default {
     },
     methods:{
         goToMaterial(name){
-            this.$router.push(name)
+            this.$router.push({
+                name:'Material',
+                params:{
+                    name
+                }
+            })
         }
     }
 }

@@ -1,10 +1,14 @@
 <template>
-  hello world
+  {{ materialName }}
 </template>
 
 <script>
 export default {
-
+  data(){
+    return{
+      materialName:this.$route.params.name
+    }
+  }
 }
 </script>
 
