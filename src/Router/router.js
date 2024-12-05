@@ -1,5 +1,5 @@
 import HomePage from '@/Pages/HomePage.vue'
-import SemesterPage from '@/Pages/SemesterPage.vue'
+import DepartmentPage from '@/Pages/DepartmentPage.vue'
 import {
     createRouter,
     createWebHistory
@@ -13,7 +13,7 @@ const routes = [
     {
         name:'Semester',
         path:"/semester/:name",
-        component:SemesterPage,
+        component:DepartmentPage,
         props:true,
     }
 ]
