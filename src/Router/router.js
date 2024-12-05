@@ -14,7 +14,7 @@ const routes = [
     },
     {
         name:'Department',
-        path:"/department/:name",
+        path:"/department/:name/:semesters",
         component:DepartmentPage,
         props:true,
     },

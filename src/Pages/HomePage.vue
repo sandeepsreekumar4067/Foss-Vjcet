@@ -39,7 +39,10 @@ export default {
   },
   methods: {
     goToDepartment(name) {
-      this.$router.push({ name: "Department", params: { name } });
+      const selectedDept = this.departments.find(
+        (dept) => name === dept.name
+      )
+      this.$router.push({ name: "Department", params: { name:name, semesters:selectedDept } });
     },
   },
 };
