@@ -7,7 +7,7 @@
       Please Select the Semester
     </div>
     <div class="sem-list">
-      <div v-for="semester in semesters" :key="semester.id" class="sem-tile">
+      <div v-for="semester in semesters" :key="semester.id" class="sem-tile" @click="()=>{goToSemester(semester.id)}">
         {{ semester.id }}
       </div>
     </div>
@@ -57,7 +57,14 @@ export default {
     }
   },
   methods:{
-    
+    goToSemester(id){
+      this.$router.push({
+        name:'Semester',
+        params:{
+          id
+        }
+      })
+    }
   }
 }
 </script>

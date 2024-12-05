@@ -1,10 +1,14 @@
 <template>
-  hello world
+    {{ semId }}
 </template>
 
 <script>
 export default {
-
+    data(){
+        return{
+            semId:this.$route.params.id
+        }
+    }
 }
 </script>
 
