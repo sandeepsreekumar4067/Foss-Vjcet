@@ -15,7 +15,7 @@
         <span
           v-for="(department, index) in departments"
           :key="index"
-          @click="goToDepartment(department.id)"
+          @click="goToDepartment(department.name)"
           class="dept-tile"
         >
           {{ department.name }}
@@ -44,8 +44,8 @@ export default {
     };
   },
   methods:{
-    goToDepartment(id){
-      console.log(id);
+    goToDepartment(name){
+      this.$router.push({name:'Semester' , params:{name} })
     }
   }
 };
