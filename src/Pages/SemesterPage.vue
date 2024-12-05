@@ -24,23 +24,23 @@ export default {
                     link:'#'
                 },
                 {
-                    name:"material 1",
+                    name:"material 2",
                     link:'#'
                 },
                 {
-                    name:"material 1",
+                    name:"material 3",
                     link:'#'
                 },
                 {
-                    name:"material 1",
+                    name:"material 4",
                     link:'#'
                 },
                 {
-                    name:"material 1",
+                    name:"material 5",
                     link:'#'
                 },
                 {
-                    name:"material 1",
+                    name:"material 6",
                     link:'#'
                 }
             ]
