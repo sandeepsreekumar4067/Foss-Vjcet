@@ -45,7 +45,7 @@ export default {
   },
   methods:{
     goToDepartment(name){
-      this.$router.push({name:'Semester' , params:{name} })
+      this.$router.push({name:'Department' , params:{name} })
     }
   }
 };

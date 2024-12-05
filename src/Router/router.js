@@ -4,6 +4,7 @@ import {
     createRouter,
     createWebHistory
 } from 'vue-router'
+import SemesterPage from '@/Pages/SemesterPage.vue'
 const routes = [
     {
         name:'Home',
@@ -11,10 +12,16 @@ const routes = [
         component:HomePage
     },
     {
-        name:'Semester',
-        path:"/semester/:name",
+        name:'Department',
+        path:"/department/:name",
         component:DepartmentPage,
         props:true,
+    },
+    {
+        name:'Semester',
+        path:'/semester/:id',
+        component:SemesterPage,
+        props:true
     }
 ]
 const router = createRouter({

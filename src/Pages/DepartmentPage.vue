@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import '../Style/semesterpage.css'
+import '../Style/departmentpage.css'
 export default {
   data(){
     return{
@@ -55,6 +55,9 @@ export default {
         },
       ]
     }
+  },
+  methods:{
+    
   }
 }
 </script>
