@@ -28,26 +28,20 @@
 <script>
 import "../Style/HomePage.css";
 import "../Style/app.css";
+import departments from '../Departments/departments.json'
 import frontImage from "../assets/front image.png";
 export default {
   data() {
     return {
       frontImage: frontImage,
-      departments: [
-        { id: "cse", name: "Computer Science and Engineering" },
-        { id: "csd", name: "Computer Science and Design" },
-        { id: "ai", name: "Artificial Intelligence" },
-        { id: "ece", name: "Electronics and Communication Engineering" },
-        { id: "eee", name: "Electrical and Electronics Engineering" },
-        { id: "civil", name: "Civil Engineering" },
-      ],
+      departments:departments
     };
   },
-  methods:{
-    goToDepartment(name){
-      this.$router.push({name:'Department' , params:{name} })
-    }
-  }
+  methods: {
+    goToDepartment(name) {
+      this.$router.push({ name: "Department", params: { name } });
+    },
+  },
 };
 </script>
 
