@@ -9,7 +9,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -17,7 +16,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -25,7 +23,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -33,7 +30,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -41,7 +37,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -49,7 +44,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -63,7 +57,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -71,7 +64,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -79,7 +71,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -87,7 +78,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -95,7 +85,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -103,7 +92,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -117,7 +105,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -125,7 +112,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -133,7 +119,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -141,7 +126,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -149,7 +133,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -157,7 +140,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -171,7 +153,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -179,7 +160,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -187,7 +167,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -195,7 +174,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -203,7 +181,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -211,7 +188,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -225,7 +201,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -233,7 +208,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -241,7 +215,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -249,7 +222,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -257,7 +229,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -265,7 +236,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -279,7 +249,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -287,7 +256,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -295,7 +263,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -303,7 +270,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -311,7 +277,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -319,7 +284,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -333,7 +297,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -341,7 +304,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -349,7 +311,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -357,7 +318,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -365,7 +325,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -373,7 +332,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -387,7 +345,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -395,7 +352,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -403,7 +359,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -411,7 +366,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -419,7 +373,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -427,7 +380,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -447,7 +399,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -455,7 +406,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -463,7 +413,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -471,7 +420,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -479,7 +427,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -487,7 +434,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -501,7 +447,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -509,7 +454,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -517,7 +461,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -525,7 +468,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -533,7 +475,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -541,7 +482,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -555,7 +495,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -563,7 +502,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -571,7 +509,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -579,7 +516,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -587,7 +523,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -595,7 +530,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -609,7 +543,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -617,7 +550,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -625,7 +557,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -633,7 +564,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -641,7 +571,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -649,7 +578,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -663,7 +591,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -671,7 +598,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -679,7 +605,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -687,7 +612,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -695,7 +619,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -703,7 +626,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -717,7 +639,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -725,7 +646,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -733,7 +653,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -741,7 +660,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -749,7 +667,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -757,7 +674,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -771,7 +687,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -779,7 +694,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -787,7 +701,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -795,7 +708,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -803,7 +715,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -811,7 +722,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -825,7 +735,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -833,7 +742,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -841,7 +749,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -849,7 +756,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -857,7 +763,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -865,7 +770,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -885,7 +789,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -893,7 +796,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -901,7 +803,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -909,7 +810,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -917,7 +817,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -925,7 +824,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -939,7 +837,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -947,7 +844,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -955,7 +851,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -963,7 +858,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -971,7 +865,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -979,7 +872,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -993,7 +885,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1001,7 +892,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1009,7 +899,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1017,7 +906,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1025,7 +913,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1033,7 +920,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1047,7 +933,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1055,7 +940,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1063,7 +947,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1071,7 +954,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1079,7 +961,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1087,7 +968,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1101,7 +981,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1109,7 +988,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1117,7 +995,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1125,7 +1002,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1133,7 +1009,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1141,7 +1016,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1155,7 +1029,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1163,7 +1036,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1171,7 +1043,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1179,7 +1050,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1187,7 +1057,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1195,7 +1064,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1209,7 +1077,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1217,7 +1084,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1225,7 +1091,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1233,7 +1098,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1241,7 +1105,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1249,7 +1112,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1263,7 +1125,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1271,7 +1132,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1279,7 +1139,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1287,7 +1146,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1295,7 +1153,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1303,7 +1160,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1323,7 +1179,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1331,7 +1186,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1339,7 +1193,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1347,7 +1200,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1355,7 +1207,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1363,7 +1214,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1377,7 +1227,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1385,7 +1234,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1393,7 +1241,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1401,7 +1248,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1409,7 +1255,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1417,7 +1262,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1431,7 +1275,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1439,7 +1282,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1447,7 +1289,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1455,7 +1296,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1463,7 +1303,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1471,7 +1310,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1485,7 +1323,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1493,7 +1330,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1501,7 +1337,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1509,7 +1344,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1517,7 +1351,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1525,7 +1358,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1539,7 +1371,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1547,7 +1378,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1555,7 +1385,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1563,7 +1392,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1571,7 +1399,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1579,7 +1406,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1593,7 +1419,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1601,7 +1426,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1609,7 +1433,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1617,7 +1440,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1625,7 +1447,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1633,7 +1454,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1647,7 +1467,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1655,7 +1474,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1663,7 +1481,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1671,7 +1488,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1679,7 +1495,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1687,7 +1502,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1701,7 +1515,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1709,7 +1522,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1717,7 +1529,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1725,7 +1536,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1733,7 +1543,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1741,7 +1550,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1761,7 +1569,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1769,7 +1576,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1777,7 +1583,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1785,7 +1590,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1793,7 +1597,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1801,7 +1604,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1815,7 +1617,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1823,7 +1624,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1831,7 +1631,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1839,7 +1638,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1847,7 +1645,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1855,7 +1652,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1869,7 +1665,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1877,7 +1672,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1885,7 +1679,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1893,7 +1686,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1901,7 +1693,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1909,7 +1700,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1923,7 +1713,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1931,7 +1720,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1939,7 +1727,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1947,7 +1734,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1955,7 +1741,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1963,7 +1748,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1977,7 +1761,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1985,7 +1768,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -1993,7 +1775,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2001,7 +1782,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2009,7 +1789,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2017,7 +1796,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2031,7 +1809,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2039,7 +1816,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2047,7 +1823,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2055,7 +1830,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2063,7 +1837,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2071,7 +1844,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2085,7 +1857,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2093,7 +1864,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2101,7 +1871,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2109,7 +1878,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2117,7 +1885,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2125,7 +1892,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2139,7 +1905,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2147,7 +1912,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2155,7 +1919,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2163,7 +1926,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2171,7 +1933,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2179,7 +1940,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2199,7 +1959,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2207,7 +1966,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2215,7 +1973,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2223,7 +1980,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2231,7 +1987,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2239,7 +1994,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2253,7 +2007,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2261,7 +2014,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2269,7 +2021,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2277,7 +2028,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2285,7 +2035,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2293,7 +2042,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2307,7 +2055,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2315,7 +2062,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2323,7 +2069,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2331,7 +2076,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2339,7 +2083,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2347,7 +2090,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2361,7 +2103,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2369,7 +2110,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2377,7 +2117,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2385,7 +2124,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2393,7 +2131,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2401,7 +2138,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2415,7 +2151,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2423,7 +2158,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2431,7 +2165,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2439,7 +2172,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2447,7 +2179,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2455,7 +2186,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2469,7 +2199,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2477,7 +2206,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2485,7 +2213,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2493,7 +2220,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2501,7 +2227,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2509,7 +2234,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2523,7 +2247,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2531,7 +2254,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2539,7 +2261,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2547,7 +2268,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2555,7 +2275,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2563,7 +2282,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2577,7 +2295,6 @@
         "materials": [
           {
             "name": "material 1",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2585,7 +2302,6 @@
           },
           {
             "name": "material 2",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2593,7 +2309,6 @@
           },
           {
             "name": "material 3",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2601,7 +2316,6 @@
           },
           {
             "name": "material 4",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2609,7 +2323,6 @@
           },
           {
             "name": "material 5",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
@@ -2617,7 +2330,6 @@
           },
           {
             "name": "material 6",
-            "link": "#",
             "keralaNotes":"#",
             "ktuNotes":"#",
             "fossNotes":"#",
