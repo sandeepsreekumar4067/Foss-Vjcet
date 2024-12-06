@@ -4,8 +4,8 @@
       {{ materialName }}
     </div>
     <div class="material-notes">
-     <div v-for="note in material.notes" :key="note">
-      {{ note.key }}
+     <div v-for="note in material.notes" :key="note.name" class="note-tile">
+      {{ note.name }}
      </div>
     </div>
   </div>
