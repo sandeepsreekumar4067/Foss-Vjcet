@@ -6,6 +6,7 @@ import {
     createWebHistory
 } from 'vue-router'
 import SemesterPage from '@/Pages/SemesterPage.vue'
+import DownloadPage from '@/Pages/DownloadPage.vue'
 const routes = [{
         name: 'Home',
         path: '/',
@@ -28,6 +29,12 @@ const routes = [{
         path: '/material/:name',
         component: MaterialPage,
         props: true,
+    },
+    {
+        name:'Download',
+        path:'/download/:name',
+        props:true,
+        component:DownloadPage,
     }
 ]
 const router = createRouter({
