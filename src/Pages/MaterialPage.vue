@@ -4,10 +4,9 @@
       {{ materialName }}
     </div>
     <div class="material-notes">
-      <span class="note-tile" @click="()=>{gotoDownloadPage('Kerala Notes')}">Kerala Notes</span>
-      <span class="note-tile" >Ktu Notes</span>
-      <span class="note-tile" >Foss Notes</span>
-      <span class="note-tile" >Teachers Notes</span>
+      <div v-for="notes in material" :key="notes.id">
+        {{ item }}
+      </div>
     </div>
   </div>
 </template>
@@ -19,13 +18,13 @@ export default {
     const material = this.$route.query.material?
     JSON.parse(this.$route.query.material):[]
     console.log(material);
-    
   },
   methods:{
     gotoDownloadPage(name){
       this.$router.push({
         name:'Download',
-        params:{name:name}
+        params:{name:name},
+        query:{modules:''}
       })
     }
   },

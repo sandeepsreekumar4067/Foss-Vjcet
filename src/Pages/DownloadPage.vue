@@ -1,5 +1,7 @@
 <template>
-  {{ name }}
+  <div class="download-page">
+    
+  </div>
 </template>
 
 <script>
