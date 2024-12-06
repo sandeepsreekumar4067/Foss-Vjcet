@@ -28,7 +28,8 @@ export default {
         const materials = this.$route.query.material?
         JSON.parse(this.$route.query.material):[]
         this.materials=materials
-        
+        console.log(materials);
+          
     },
   data() {
     return {
