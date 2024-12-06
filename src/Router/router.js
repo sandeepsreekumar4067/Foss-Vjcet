@@ -6,33 +6,36 @@ import {
     createWebHistory
 } from 'vue-router'
 import SemesterPage from '@/Pages/SemesterPage.vue'
-const routes = [
-    {
-        name:'Home',
-        path:'/',
-        component:HomePage
+const routes = [{
+        name: 'Home',
+        path: '/',
+        component: HomePage
     },
     {
-        name:'Department',
-        path:"/department/:name/:semesters",
-        component:DepartmentPage,
-        props:true,
-    },
-    {
-        name:'Semester',
-        path:'/semester/:id',
-        component:SemesterPage,
+        path: "/department/:name",
+        name: "Department",
+        component: DepartmentPage,
+        // props: (route) => ({
+        //     name: route.params.name,
+        //     semesters: route.params.semesters,
+        // }),
         props:true
     },
     {
-        name:'Material',
-        path:'/material/:name',
-        component:MaterialPage,
-        props:true,
+        name: 'Semester',
+        path: '/semester/:id',
+        component: SemesterPage,
+        props: true
+    },
+    {
+        name: 'Material',
+        path: '/material/:name',
+        component: MaterialPage,
+        props: true,
     }
 ]
 const router = createRouter({
-    history:createWebHistory(),
+    history: createWebHistory(),
     routes
 })
 export default router

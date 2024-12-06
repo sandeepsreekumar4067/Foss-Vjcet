@@ -15,7 +15,7 @@
         <span
           v-for="(department, index) in departments"
           :key="index"
-          @click="goToDepartment(department.name)"
+          @click="goToDepartment(department)"
           class="dept-tile"
         >
           {{ department.name }}
@@ -28,23 +28,24 @@
 <script>
 import "../Style/HomePage.css";
 import "../Style/app.css";
-import departments from '../Departments/departments.json'
+import departments from "../Departments/departments.json";
 import frontImage from "../assets/front image.png";
 export default {
   data() {
     return {
       frontImage: frontImage,
-      departments:departments
+      departments: departments,
     };
   },
-  methods: {
-    goToDepartment(name) {
-      const selectedDept = this.departments.find(
-        (dept) => name === dept.name
-      )
-      this.$router.push({ name: "Department", params: { name:name, semesters:selectedDept } });
-    },
-  },
+  methods:{
+    goToDepartment(department){
+      this.$router.push({
+        name:'Department',
+        params:{name:department.name},
+        query:{semesters:JSON.stringify(department.semesters)}
+      })
+    }
+  }
 };
 </script>
 
