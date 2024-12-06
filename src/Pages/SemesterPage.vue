@@ -8,14 +8,14 @@
       <div
         @click="
           () => {
-            goToMaterial(note.name);
+            goToMaterial(material);
           }
         "
-        v-for="note in materials"
-        :key="note.name"
+        v-for="material in materials"
+        :key="material.name"
         class="material-tile"
       >
-        {{ note.name }}
+        {{ material.name }}
       </div>
     </div>
   </div>
@@ -38,12 +38,13 @@ export default {
     };
   },
   methods: {
-    goToMaterial(name) {
+    goToMaterial(material) {
       this.$router.push({
         name: "Material",
         params: {
-          name,
+          name:material.name,
         },
+        query:{material:JSON.stringify(material)}
       });
     },
   },
