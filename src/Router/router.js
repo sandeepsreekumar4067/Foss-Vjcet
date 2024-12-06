@@ -15,10 +15,6 @@ const routes = [{
         path: "/department/:name",
         name: "Department",
         component: DepartmentPage,
-        // props: (route) => ({
-        //     name: route.params.name,
-        //     semesters: route.params.semesters,
-        // }),
         props:true
     },
     {

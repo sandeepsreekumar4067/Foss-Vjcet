@@ -5,7 +5,7 @@
     </div>
     <div class="prompt">Please Select the Semester</div>
     <div class="sem-list">
-      <div v-for="semester in semesters" :key="semester.id" class="sem-tile" @click="goToSemester(semester.id)">
+      <div v-for="semester in semesters" :key="semester.id" class="sem-tile" @click="goToSemester(semester)">
         {{ semester.id }}
       </div>
     </div>
@@ -32,12 +32,15 @@ export default {
     }
   },
   methods: {
-    goToSemester(id) {
+    goToSemester(semester) {
       this.$router.push({
         name: "Semester",
         params: {
-          id,
+          id:semester.id,
         },
+        query:{
+          material:JSON.stringify(semester.materials)
+        }
       });
     },
   },
