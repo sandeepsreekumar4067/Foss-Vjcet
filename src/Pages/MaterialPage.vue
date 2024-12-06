@@ -4,9 +4,9 @@
       {{ materialName }}
     </div>
     <div class="material-notes">
-      <div v-for="notes in material" :key="notes.id">
-        {{ item }}
-      </div>
+     <div v-for="note in material.notes" :key="note">
+      {{ note.key }}
+     </div>
     </div>
   </div>
 </template>
@@ -18,6 +18,7 @@ export default {
     const material = this.$route.query.material?
     JSON.parse(this.$route.query.material):[]
     console.log(material);
+    this.material=material
   },
   methods:{
     gotoDownloadPage(name){
@@ -31,6 +32,7 @@ export default {
   data(){
     return{
       materialName:this.$route.params.name,
+      material:[],
       kerlaNotes:[],
       ktuNotes:[],
       fossNotes:[],
