@@ -4,8 +4,8 @@
         {{ name }}
     </div>
     <div class="download-notes">
-        <div v-for="notes in modules" :key="notes.id">
-            {{ notes }}
+        <div v-for="notes in modules" :key="notes.id" class="download-tile">
+            {{ notes.name }}
         </div>
     </div>
   </div>
